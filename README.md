@@ -7,9 +7,7 @@ This is a personal exercise and implementation of "getting started with Unity Sh
 ## Examples
 ### 漫反射
 
-<img style="max-width: 30%; padding-right: 1%" src="Examples/1_1.png">
-<img style="max-width: 30%; padding-right: 1%" src="Examples/1_2.png">
-<img style="max-width: 30%; padding-right: 1%" src="Examples/1_3.png">
+| <img style="max-width: 30%; padding-right: 1%" src="Examples/1_1.png"> | <img style="max-width: 30%; padding-right: 1%" src="Examples/1_2.png"> | <img style="max-width: 30%; padding-right: 1%" src="Examples/1_3.png"> |
 <div style="display: inline-block; text-align: center; max-width: 30%; padding-right: 1%">逐顶点反射</div>
 <div style="display: inline-block; text-align: center; max-width: 30%; padding-right: 1%;">逐像素反射</div>
 <div style="display: inline-block; text-align: center; max-width: 30%; padding-right: 1%;">半兰伯特反射</div>
