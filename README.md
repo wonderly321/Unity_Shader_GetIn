@@ -7,14 +7,9 @@ This is a personal exercise and implementation of "getting started with Unity Sh
 ## Examples
 ### 漫反射
 
-
-
 | ![](Examples/1_1.png)  | ![](Examples/1_2.png) | ![](Examples/1_3.png) |
 |:----------:|:---:|:--------:|
 | 逐顶点反射  | 逐像素反射 | 半兰伯特反射    | 
-
-
-
 
 ### 高光反射
 
