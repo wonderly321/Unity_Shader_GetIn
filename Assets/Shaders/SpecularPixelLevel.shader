@@ -1,6 +1,4 @@
-﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
-
-Shader "Custom/SpecularPixelLevel" { 
+﻿Shader "Custom/SpecularPixelLevel" { 
     Properties{
         _Diffuse("Diffuse Color", Color) = (1, 1, 1, 1) // 可在编辑器面板定义材质自身色彩
         _Specular("Specular Color", Color) = (1, 1, 1, 1)

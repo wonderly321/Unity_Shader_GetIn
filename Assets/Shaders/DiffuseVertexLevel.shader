@@ -1,6 +1,4 @@
-﻿// Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
-
-Shader "Custom/DiffuseVertexLevel"{//逐顶点漫反射
+﻿Shader "Custom/DiffuseVertexLevel"{//逐顶点漫反射
     Properties{
         _Diffuse ("Diffuse", Color) = (1, 1, 1, 1) //可在编辑器面板定义材质自身色彩
     }

@@ -49,6 +49,7 @@ This is a personal exercise and implementation of "getting started with Unity Sh
 
 | ![](Examples/8_1.png)  | ![](Examples/8_2.png) |
 |:-------:|:---:|
+
 模型本身具有复杂的遮挡关系，则因排序错误产生错误的透明效果。使用两个Pass可以解决这个问题其中第二个Pass与原始blend相同，而第一个Pass仅仅将模型深度值写入深度缓冲，而不输出颜色
 
 
