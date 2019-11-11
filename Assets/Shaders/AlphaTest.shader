@@ -1,7 +1,4 @@
-﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
-// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
-
-Shader "Custom/AlphaTestWithShadow" {
+﻿Shader "Custom/AlphaTest" {
 	Properties {
 		_Color ("Color Tint", Color) = (1, 1, 1, 1)
 		_MainTex ("Main Tex", 2D) = "white" {}
@@ -75,4 +72,3 @@ Shader "Custom/AlphaTestWithShadow" {
 	} 
 	FallBack "Transparent/Cutout/VertexLit"
 }
-© 2019 GitHub, Inc.
